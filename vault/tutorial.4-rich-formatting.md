@@ -2,7 +2,7 @@
 id: vAy0awBTwDaxKGHWUdSaP
 title: Rich Formatting
 desc: "Text Formatting, Images, Formulas, and Diagrams"
-updated: 1624865905667
+updated: 1640263568161
 created: 1624352425213
 ---
 
@@ -22,6 +22,9 @@ Dendron supports an extended Markdown syntax, which provides a lot of options fo
 
 Sample Image Link:
 ![Dendron Logo](/assets/images/logo_small.png)
+
+Sample image pasted from clipboard:
+![](/assets/images/2021-12-23-20-45-57.png)
 
 #### Equations
 
