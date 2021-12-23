@@ -2,7 +2,7 @@
 id: hAB2tQHsi0CGuhxz5HkTI
 title: Linking Your Notes
 desc: Note Linking and your Knowledge Graph
-updated: 1624934268124
+updated: 1640263358502
 created: 1624333278136
 ---
 
